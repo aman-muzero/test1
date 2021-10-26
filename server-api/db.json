@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "5865a376-7ca9-4a5d-8145-6b724110fa4e",
+      "name": "Aman Sherawat",
+      "email": "ac@gmail.com"
+    },
+    {
+      "id": "175b6e26-9f9f-4a36-bc0f-2d5b966a23d0",
+      "name": "Ama Sherawat",
+      "email": "ac@gmail.co"
+    },
+    {
+      "id": "c0c0788f-c45f-42ef-a1a0-ed03165f37b4",
+      "name": "Aman Sherawat",
+      "email": "ac@gmail.com"
+    },
+    {
+      "id": "4e55072a-7434-44b6-967d-e139fbe61584",
+      "name": "pk",
+      "email": "ac@gmail.com"
+    },
+    {
+      "id": "1146e229-987a-4d99-8f8f-1b5bd457e3ff",
+      "name": "mike",
+      "email": "mike@gmail.com"
+    },
+    {
+      "id": "4970045e-27a4-46a6-9cfc-7b1937079a0d",
+      "name": "mike",
+      "email": "mike@gmail.com"
+    }
+  ]
+}
